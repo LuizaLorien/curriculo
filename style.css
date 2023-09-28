@@ -1,0 +1,22 @@
+#butao {
+     /* Green */
+    border: #c07c7c;
+    color: rgb(255, 255, 255);
+    text-align: auto;
+    text-decoration:none;
+    font-size: 16px;
+    border-radius: 9px;
+    background-color: #c07c7c;
+    height: 40px;
+
+  }
+
+  input{
+    margin-top: 0.5rem;
+  }
+ 
+  ::placeholder {
+    font-weight: bold;
+    color: red;
+    opacity:0.5;
+  }
